@@ -1,5 +1,4 @@
-# pokedex_proje3
-
+# pokedex_api_dio
 A new Flutter project.
 
 ## Getting Started
