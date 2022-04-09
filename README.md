@@ -1,6 +1,10 @@
 # pokedex_api_dio
 A new Flutter project.
 
+
+https://user-images.githubusercontent.com/56730736/162582903-fea60d90-484e-4a62-9348-82b415b54327.mp4
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
